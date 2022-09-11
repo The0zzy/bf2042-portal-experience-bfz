@@ -7,3 +7,6 @@ https://docs.google.com/document/d/1iVGdxB_-ky5BXSjtmymDP_Y4wmzwVzkdvi3x4kvqNm8/
 
 ## Experience Codes
 AAY4N9
+
+## Experience URL
+https://portal.battlefield.com/experience/rules?playgroundId=f322da10-320b-11ed-98f8-9d6912d338ca
