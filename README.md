@@ -6,4 +6,4 @@ BFZ - Battlefield 2042 Zombie Co-Op Mod
 https://docs.google.com/document/d/1iVGdxB_-ky5BXSjtmymDP_Y4wmzwVzkdvi3x4kvqNm8/edit
 
 ## Experience Codes
-tbd
+AAY4N9
